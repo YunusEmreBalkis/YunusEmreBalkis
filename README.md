@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre Balkis</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 - 📫 How to reach me **y.emrebalkis@gmail.com**
 
